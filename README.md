@@ -1,4 +1,4 @@
-# λ Docker Haskell Cabal [![Build Status](https://travis-ci.org/lorcanmcdonald/docker-haskell-cabal.svg)](https://travis-ci.org/lorcanmcdonald/docker-haskell-cabal)
+# λ Docker Haskell Cabal
 A [dockerised](https://www.docker.com) instance of
 [cabal](http://hackage.haskell.org/package/cabal-install) suitable for building
 [Haskell](https://www.haskell.org) projects
